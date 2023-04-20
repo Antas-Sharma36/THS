@@ -1,0 +1,5 @@
+Install these libraries on your linux environment-
+libreadline8
+libreadline-dev
+
+And while compiling add the -lreadline flag
