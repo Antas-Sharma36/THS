@@ -12,7 +12,7 @@ int main() {
     HISTORY_STATE* hist_state = history_get_history_state();
 // Get the current history state    
         //printf("History state length=%d",HISTORY_STATE);
-    int h_state_len = hist_state->length;
+    int h_state_len = hist_state->length; // = hist_state.len 
     printf("Length of state is:%d",h_state_len); 
 //Print number of elements within the history state
 // why zero tho?
