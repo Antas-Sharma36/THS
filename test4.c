@@ -33,5 +33,7 @@ int main() {
     for (i = 0; the_list[i]; i++)
       printf ("%d: %s\n", i + history_base, the_list[i]->line);
 
+// save history ig  
+  write_history(history_file);
   return 0;
 }
