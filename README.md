@@ -14,7 +14,8 @@ I may add support for them.
 
 As of now,  this project is working perfectly for the custom history file - "history_file". 
 
-**Note** - This project is _still in development_
+**Note** - This project is _still in development_.
+
 Please see the Scope for what I am currently working on. 
 
 
