@@ -21,6 +21,8 @@ Please see the Scope for what I am currently working on.
 
 ## Run Locally
 
+main.c is the only C file that we need to run, the rest are just tests
+
 Clone the project
 
 ```bash
